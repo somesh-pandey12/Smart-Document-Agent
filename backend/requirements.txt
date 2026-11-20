@@ -1,0 +1,8 @@
+groq
+chromadb
+pypdf
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+streamlit
